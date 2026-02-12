@@ -26,7 +26,7 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 - Trivy (Filesystem Scan)
 - ArgoCD (CD)
 - Redis (Caching)
-- AWS EKS (Kubernetes)
+- AWS Ec2
 - Helm (Monitoring using grafana and prometheus)
 
 ### How pipeline will look after deployment:
